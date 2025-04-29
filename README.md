@@ -9,6 +9,7 @@ To build a machine learning model that accurately predicts the price of refurbis
  2.What is the average difference between predicted and actual car prices?
  3.How fast can the model return a prediction?
  4.Which features most influence the predicted car price?
+ 
  ## Process
  1. Data Collection & Preprocessing
  2. Exploratory Data Analysis (EDA)
